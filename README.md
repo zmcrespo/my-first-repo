@@ -1,2 +1,12 @@
-# my-first-repo
-practice repo
+:q
+    qKklllkkqqqq repo
+    :w
+
+
+                        >vdssdsdvsdv
+
+                        :wq
+
+
+    ioisdfiojjio:q
+
